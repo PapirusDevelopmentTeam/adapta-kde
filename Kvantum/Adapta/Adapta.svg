@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1016"
      id="namedview862"
-     showgrid="true"
-     inkscape:zoom="12.41"
-     inkscape:cx="364.778"
-     inkscape:cy="816.06673"
+     showgrid="false"
+     inkscape:zoom="9.4"
+     inkscape:cx="348.78283"
+     inkscape:cy="423.22301"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -52,6 +52,18 @@
   </sodipodi:namedview>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4922">
+      <stop
+         style="stop-color:#222d32;stop-opacity:1;"
+         offset="0"
+         id="stop4924" />
+      <stop
+         style="stop-color:#222d32;stop-opacity:0;"
+         offset="1"
+         id="stop4926" />
+    </linearGradient>
     <linearGradient
        xlink:href="#linearGradient2643"
        id="linearGradient3885"
@@ -616,6 +628,60 @@
        id="radialGradient1954"
        xlink:href="#linearGradient2643-6"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient4928"
+       x1="380"
+       y1="799"
+       x2="385"
+       y2="799"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient4930"
+       x1="355"
+       y1="798"
+       x2="360"
+       y2="799"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient4932"
+       x1="358"
+       y1="794"
+       x2="360"
+       y2="798"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient4934"
+       gradientUnits="userSpaceOnUse"
+       x1="358"
+       y1="794"
+       x2="358"
+       y2="804" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient4936"
+       gradientUnits="userSpaceOnUse"
+       x1="357.25"
+       y1="794"
+       x2="357.25"
+       y2="804" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient4938"
+       gradientUnits="userSpaceOnUse"
+       x1="382"
+       y1="794"
+       x2="382"
+       y2="804" />
   </defs>
   <text
      x="44.75"
@@ -4445,22 +4511,22 @@
   <g
      id="toolbar-normal-bottomleft"
      transform="matrix(1,0,0,0.5,0,397)"
-     style="fill:#222d32;fill-opacity:1">
+     style="fill:url(#linearGradient4932);fill-opacity:1">
     <rect
        y="794"
        x="355"
        height="10"
        width="5"
        id="rect5005"
-       style="opacity:1;fill:#222d32;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.3;fill:url(#linearGradient4934);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="toolbar-normal-bottomright"
      inkscape:label="#toolbar-normal-bottomright"
      transform="matrix(1,0,0,0.5,0,397)"
-     style="fill:#222d32;fill-opacity:1">
+     style="fill:url(#linearGradient4928);fill-opacity:1">
     <rect
-       style="opacity:1;fill:#222d32;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.3;fill:url(#linearGradient4938);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5007"
        width="5"
        height="10"
@@ -4470,9 +4536,9 @@
   <g
      id="toolbar-normal-bottom"
      transform="matrix(4,0,0,0.5,-1060,397)"
-     style="fill:#222d32;fill-opacity:1">
+     style="fill:url(#linearGradient4930);fill-opacity:1">
     <rect
-       style="opacity:1;fill:#222d32;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.3;fill:url(#linearGradient4936);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4931"
        width="5"
        height="10"
