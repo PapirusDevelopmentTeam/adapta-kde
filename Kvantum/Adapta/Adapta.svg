@@ -39,9 +39,9 @@
      inkscape:window-height="1016"
      id="namedview862"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="126.14321"
-     inkscape:cy="672.34676"
+     inkscape:zoom="0.66"
+     inkscape:cx="278.94082"
+     inkscape:cy="507.64979"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -1188,7 +1188,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="color:#000000;stroke:none"
+     style="color:#000000;stroke:none;opacity:0.001"
      transform="matrix(1.1428571,0,0,1,-38.285716,-208.00012)"
      id="splitter-grip-normal">
     <rect
@@ -1311,7 +1311,7 @@
      id="titlebar-focused"
      transform="translate(1.3061523e-8,-45)" />
   <g
-     style="stroke:none"
+     style="stroke:none;opacity:0.001"
      transform="translate(-7.5,-50.00006)"
      id="resize-grip-normal">
     <rect
@@ -1328,7 +1328,7 @@
        style="opacity:0.3;stroke-width:0.935" />
   </g>
   <g
-     style="stroke:none"
+     style="stroke:none;opacity:0.001"
      transform="translate(42,-50.00006)"
      id="resize-grip-focused">
     <rect
@@ -2126,7 +2126,7 @@
      x="112.49935"
      width="48" />
   <g
-     style="stroke:none"
+     style="stroke:none;opacity:0.001"
      id="splitter-grip-focused"
      transform="matrix(1.1428571,0,0,1,-10.285716,-208.00012)">
     <rect
@@ -2151,7 +2151,8 @@
      height="100%"
      xlink:href="#splitter-grip-focused"
      id="splitter-grip-pressed"
-     transform="translate(30,0)" />
+     transform="translate(30,0)"
+     style="opacity:0.001" />
   <g
      style="fill-rule:evenodd;stroke:none"
      transform="translate(26,-208.00012)"
