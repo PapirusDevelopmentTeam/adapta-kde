@@ -1,5 +1,5 @@
 [%General]
-author=Tsu Jan
+author=Alexey Varfolomeev, based on KvAdapta by Tsu Jan
 comment=An uncomplicated theme inspired by the Adapta GTK theme
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
