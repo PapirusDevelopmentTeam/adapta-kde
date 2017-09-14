@@ -241,7 +241,7 @@ indicator.element=arrow-down
 
 [IndicatorArrow]
 indicator.element=arrow
-indicator.size=9
+indicator.size=8
 
 [ToolboxTab]
 inherits=PanelButtonCommand
@@ -374,7 +374,7 @@ indicator.size=48
 [Scrollbar]
 inherits=PanelButtonCommand
 indicator.element=arrow
-indicator.size=10
+indicator.size=8
 
 [ScrollbarSlider]
 inherits=PanelButtonCommand
