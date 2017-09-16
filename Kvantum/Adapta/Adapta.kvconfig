@@ -361,7 +361,7 @@ text.margin.bottom=2
 text.margin.left=4
 text.margin.right=4
 text.normal.color=#7f898e
-text.focus.color=black
+text.focus.color=#7f898e
 text.press.color=white
 text.toggle.color=white
 min_width=+0.3font
@@ -419,6 +419,7 @@ frame.bottom=0
 text.normal.color=#7f898e
 text.focus.color=#7f898e
 frame.expansion=0
+text.bold=true
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -437,7 +438,7 @@ text.normal.color=#7f898e
 text.focus.color=#7f898e
 text.press.color=#ffffff
 text.toggle.color=#ffffff
-text.bold=false
+text.bold=true
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
@@ -455,7 +456,6 @@ indicator.element=mdi
 text.normal.color=#787878
 text.focus.color=black
 text.bold=true
-text.italic=true
 frame.expansion=0
 
 [ComboBox]
@@ -487,6 +487,7 @@ interior.element=menu
 text.normal.color=#7f898e
 text.shadow=false
 frame.expansion=0
+text.bold=true
 
 [GroupBox]
 inherits=GenericFrame
@@ -529,3 +530,4 @@ interior=false
 [Window]
 interior=true
 interior.element=window
+text.bold=true
