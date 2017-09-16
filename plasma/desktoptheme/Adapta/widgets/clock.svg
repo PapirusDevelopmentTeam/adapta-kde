@@ -27,8 +27,8 @@
  <g id="SecondHand">
   <path id="rect4208" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 283,137 6,0 0,70 -6,0 z"/>
   <g id="g4210" transform="translate(-4.0644,-2.00021)">
-   <path id="rect6212" style="fill:#4db6ac;fill-opacity:1;stroke:none" d="m 291.0644,141.00021 0,65.9994 c 0,0 0,1.0006 -1,1.0006 -1,0 -1,-1 -1,-1 l 0,-65.99981 z"/>
-   <path id="path6214" style="fill:#4db6ac;fill-opacity:1;stroke:none" d="m 289.06331,143.73103 c -0.95585,-0.55323 -1.28286,-1.77611 -0.73003,-2.73207 0.55293,-0.95613 1.77614,-1.28298 2.73218,-0.7301 0.95583,0.55322 1.28286,1.77611 0.72992,2.73224 -0.55283,0.95596 -1.77605,1.2828 -2.73207,0.72993 z"/>
+   <path id="rect6212" style="fill:#ff9800;fill-opacity:1;stroke:none" d="m 291.0644,141.00021 0,65.9994 c 0,0 0,1.0006 -1,1.0006 -1,0 -1,-1 -1,-1 l 0,-65.99981 z"/>
+   <path id="path6214" style="fill:#ff9800;fill-opacity:1;stroke:none" d="m 289.06331,143.73103 c -0.95585,-0.55323 -1.28286,-1.77611 -0.73003,-2.73207 0.55293,-0.95613 1.77614,-1.28298 2.73218,-0.7301 0.95583,0.55322 1.28286,1.77611 0.72992,2.73224 -0.55283,0.95596 -1.77605,1.2828 -2.73207,0.72993 z"/>
   </g>
  </g>
 </svg>
