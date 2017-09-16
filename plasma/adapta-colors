@@ -1,0 +1,210 @@
+dark decoration 222d32
+dark window 263238
+icon & text on dark a5afb4
+highlight button 00bcd4
+slider button 4db6ac
+additional color 00e676
+
+BUTTONS:
+normal 2f3d44
+focused 2f3d44 + shadow down
+hover 3e4c53
+pressed 00bcd4
+toggle with transparent
+
+
+
+//
+// When color definition differs for dark and light variant,
+// it gets @if ed depending on $variant
+//
+
+@function gtkalpha($c, $a) {
+  @return unquote("alpha(#{$c}, #{$a})");
+}
+
+@function gtkopacity($c, $a) {
+  @return scale-color($c, $alpha: percentage(-1 + $a));
+}
+
+
+//
+// A Color palette
+//
+// Adapta uses google's palette:
+// [https://www.google.com/design/spec/style/color.html#color-color-palette]
+//
+
+
+// Import key colour-scheme defined at build-time.
+@import 'key_colors';
+
+
+//
+// Foreground colors
+//
+
+$fg_color: if($variant == 'light', #263238,                     // = BluGry900
+                                   #CFD8DC);                    // = BluGry100
+$secondary_fg_color: gtkopacity($fg_color, 0.75);
+$tertiary_fg_color: gtkopacity($fg_color, 0.5);
+
+$selected_fg_color: #FFFFFF;                                    // = White
+$secondary_selected_fg_color: gtkopacity($selected_fg_color, 0.85);
+$tertiary_selected_fg_color: gtkopacity($selected_fg_color, 0.7);
+
+$insensitive_fg_color: gtkopacity($fg_color, 0.3);
+$insensitive_secondary_fg_color: gtkopacity($secondary_fg_color, 0.3);
+$insensitive_tertiary_fg_color: gtkopacity($tertiary_fg_color, 0.3);
+
+$insensitive_selected_fg_color: gtkopacity($selected_fg_color, 0.4);
+$insensitive_secondary_selected_fg_color: gtkopacity($secondary_selected_fg_color, 0.4);
+$insensitive_tertiary_selected_fg_color: gtkopacity($tertiary_selected_fg_color, 0.4);
+
+// preview text on empty GtkEntry
+$placeholder_text_color: #78909C;                               // = BluGry400
+
+
+//
+// Inverted foreground colors
+//
+
+$inverted_fg_color: #CFD8DC;                                    // = BluGry100
+$inverted_secondary_fg_color: gtkopacity($inverted_fg_color, 0.75);
+$inverted_tertiary_fg_color: gtkopacity($inverted_fg_color, 0.5);
+
+$insensitive_inverted_fg_color: gtkopacity($inverted_fg_color, 0.3);
+$insensitive_inverted_secondary_fg_color: gtkopacity($inverted_secondary_fg_color, 0.3);
+
+$fixed_fg_color: #263238;                                       // = BluGry900
+$secondary_fixed_fg_color: gtkopacity($fixed_fg_color, 0.75);
+$tertiary_fixed_fg_color: gtkopacity($fixed_fg_color, 0.5);
+$insensitive_fixed_fg_color: gtkopacity($fixed_fg_color, 0.3);
+
+
+//
+// Background colors
+//
+
+$bg_color: if($variant == 'light', mix(#FFFFFF, #ECEFF1, 75%),  // = W _ 50
+                                   #263238);                    // = BluGry900
+$base_color: if($variant == 'light',
+                #FFFFFF,                                        // = White
+                mix(#263238, #37474F, 85%));                    // = 900 _ 800
+$secondary_base_color: mix($base_color, $bg_color, 50%);        // = W _ 50
+$light_color: if($variant == 'light',
+                 $base_color,                                   // = White
+                 mix(#263238, #37474F, 50%));                   // = 900 _ 800
+$dark_color: if($variant == 'light',
+                mix(#ECEFF1, #CFD8DC, 75%),                     // =  50 _ 100
+                mix(#263238, #000000, 90%));                    // = 900 _ Blk
+$secondary_dark_color: if($variant == 'light',
+                          mix(#FFFFFF, #ECEFF1, 60%),           // = W _ 50
+                          mix(#263238, #000000, 95%));          // = 900 _ Blk
+
+
+//
+// Dark background colors on light variant
+//
+
+$inverted_bg_color: #263238;                                    // = BluGry900
+$inverted_base_color: mix(#263238, #37474F, 85%);               // = 900 _ 800
+$inverted_light_color: mix(#263238, #37474F, 50%);              // = 900 _ 800
+$inverted_dark_color: mix(#263238, #000000, 90%);               // = 900 _ Blk
+
+
+//
+// Light background colors on dark variant
+//
+
+$fixed_base_color: #FFFFFF;                                     // = White
+
+
+//
+// Selection (primary) colors
+//
+
+// Default: #00BCD4                                             // = Cyan500
+$selected_bg_color: $key_selection_color;
+// Default: #4DD0E1                                             // = Cyan300
+$secondary_selected_bg_color: $key_secondary_selection_color;
+
+
+//
+// Accent (secondary) colors
+//
+
+// Default: #4DB6AC                                             // = Teal300
+$accent_color: $key_accent_color;
+$accent_label_color: if($variant == 'light',
+                        mix($key_accent_color, $fg_color, 80%),
+                        mix($key_accent_color, $fg_color, 60%));
+$secondary_accent_color: gtkopacity($accent_color, 0.9);
+$secondary_accent_label_color: gtkopacity($accent_label_color, 0.9);
+$accent_fill_color: gtkopacity($inverted_fg_color, 0.1);
+$drop_target_color: $accent_color;
+$drop_target_fill_color: gtkopacity($drop_target_color, 0.2);
+
+$inverted_accent_label_color:
+  mix($key_accent_color, $inverted_fg_color, 60%);
+$inverted_secondary_accent_label_color:
+  gtkopacity($inverted_accent_label_color, 0.9);
+
+
+//
+// Tracker colors
+//
+
+$track_color: gtkalpha(currentColor, 0.2);
+
+
+//
+// Edge colors
+//
+
+$borders_color: if($variant == 'light', gtkopacity(#000000, 0.09),
+                                        gtkopacity(#000000, 0.13));
+$solid_light_borders_color: if($variant == 'light', #E5E9EC, #212B30);
+$solid_dark_borders_color: mix($inverted_dark_color, #000000, 0.06);
+$top_edge_borders_color: $inverted_base_color;
+$paned_borders_color: if($variant == 'light', gtkopacity(#000000, 0.05),
+                                              gtkopacity(#000000, 0.07));
+
+$highlight_color: gtkopacity(#FFFFFF, 0.07);
+$menu_highlight_color: if($variant == 'light',
+                       $base_color,
+                       mix($secondary_base_color, #FFFFFF, 98%));
+
+//
+// Misc colors
+//
+
+$link_color: #03A9F4;                                           // = LtBlu500
+$link_visited_color: #9C27B0;                                   // = Purple500
+
+$warning_color: #FF9800;                                        // = Orange500
+$error_color: #F44336;                                          // = Red500
+$success_color: #00E676;                                        // = GreenA400
+
+// Default: #009688                                             // = Teal500
+$suggested_color: $key_suggestion_color;
+// Default: #FF5252                                             // = RedA200
+$destructive_color: $key_destruction_color;
+
+$info_bg_color: #1DE9B6;                                        // = TealA400
+$question_bg_color: #FFEA00;                                    // = YellwA400
+$warning_bg_color: #FF9100;                                     // = OrangA400
+$error_bg_color: #FF1744;                                       // = RedA400
+$solid_red: #F44336;                                            // = Red500
+$solid_yellow: #FFEB3B;                                         // = Yellow500
+$solid_green: #4CAF50;                                          // = Green500
+$solid_blue: #2196F3;                                           // = Blue500
+
+
+//
+// Solid panel color
+//
+
+$panel_bg_color: mix(#263238, #000000, 50%);                    // = 900 _ Blk
+
+
