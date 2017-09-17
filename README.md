@@ -20,9 +20,7 @@ In this repository you'll find:
 
 ### Adapta KDE Installer
 
-Use the scripts to install the latest version directly from this repo (independently on your distro):
-
-**NOTE:** Use the same script to update Adapta-KDE.
+Use the script to install the latest version directly from this repo (independently on your distro):
 
 #### Install
 
