@@ -18,7 +18,33 @@ In this repository you'll find:
 
 ## Installation
 
-Maybe make only and packages?
+### Adapta KDE Installer
+
+Use the scripts to install the latest version directly from this repo (independently on your distro):
+
+**NOTE:** Use the same script to update Adapta-KDE.
+
+#### Install
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/install.sh | sh
+```
+
+#### Uninstall
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/install.sh | uninstall=true sh
+```
+
+### Unofficial packages
+
+Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+
+| **Distro** | **Maintainer** | **Package** |
+|:-----------|:---------------|:------------|
+| Arch Linux | Jan Neumann    | [adapta-kde-git](https://aur.archlinux.org/packages/adapta-kde-git/) <sup>AUR</sup> |
+
+**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
 ## Recommendations
 
