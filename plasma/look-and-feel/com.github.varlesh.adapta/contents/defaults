@@ -2,16 +2,16 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Arc Dark
+ColorScheme=Adapta
 
 [kdeglobals][Icons]
-Theme=Papirus-Dark
+Theme=Papirus-Adapta
 
 [plasmarc][Theme]
-name=Arc-Dark
+name=Adapta
 
 [kwinrc][org.kde.kdecoration2]
-theme=__aurorae__svg__Arc-Dark
+theme=__aurorae__svg__Adapta
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
