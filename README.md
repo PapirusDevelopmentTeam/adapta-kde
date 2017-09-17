@@ -28,6 +28,10 @@ Maybe make only and packages?
 
 - Install [Papirus-Adapta icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
+- On systemsettings set **Noto Sans Bold** font for title, menu and toolbar
+
+- For better looking use toolbar icons without text
+
 ## Donate
 
 If you like my project, you can donate at:
