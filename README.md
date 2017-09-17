@@ -18,6 +18,18 @@ In this repository you'll find:
 
 ## Installation
 
+### Ubuntu and derivatives
+
+You can install adapta-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/adapta-kde):
+
+```
+sudo add-apt-repository ppa:papirus/adapta-kde
+sudo apt-get update
+sudo apt-get install adapta-kde
+```
+
+or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/adapta-kde/+packages).
+
 ### Adapta KDE Installer
 
 Use the script to install the latest version directly from this repo (independently on your distro):
