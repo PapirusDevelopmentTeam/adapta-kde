@@ -3,7 +3,7 @@ import QtGraphicalEffects 1.0
 
 Rectangle {
     id: root
-    color: black
+    color: "#00bcd4"
 
      property int stage
 
@@ -31,38 +31,15 @@ Rectangle {
             source: "images/start-here-kde-animation.svg"
             sourceSize.height: size
             sourceSize.width: size
-            visible: false
             RotationAnimator on rotation {
                 id: rotationAnimator
                 from: 0
                 to: 360
-                duration: 1500
+                duration: 2000
                 loops: Animation.Infinite
         }
     }
-        Image {
-            id: mask
-            anchors.centerIn: parent
-            source: "images/start-here-kde-mask.svg"
-            sourceSize.height: size
-            sourceSize.width: size
-            visible: false
-            
-        }
-        OpacityMask {
-        anchors.fill: animation
-        source: animation
-        maskSource: mask
-    }
-        Row {
-            spacing: units.smallSpacing*2
-            anchors {
-                bottom: parent.bottom
-                right: parent.right
-                margins: units.gridUnit
-            }
-        }
-    }
+}
 
     OpacityAnimator {
         id: introAnimation
@@ -72,5 +49,12 @@ Rectangle {
         to: 1
         duration: 1000
         easing.type: Easing.InOutQuad
+    }
+    Image {
+            id: logo
+            anchors.centerIn: parent
+            source: "images/start-here-kde-logo.svg"
+            sourceSize.height: size
+            sourceSize.width: size
     }
 }
