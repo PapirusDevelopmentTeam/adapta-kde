@@ -112,14 +112,14 @@ frame.left=4
 frame.right=4
 interior=true
 interior.element=button
-indicator.size=9
+indicator.size=8
 text.normal.color=#7f898e
 text.focus.color=#575d61
 text.press.color=#575d61
 text.toggle.color=white
 text.shadow=0
 text.margin=1
-text.iconspacing=3
+text.iconspacing=0
 indicator.element=arrow
 text.margin.top=2
 text.margin.bottom=4
@@ -136,6 +136,8 @@ text.focus.color=#575d61
 text.press.color=#575d61
 text.toggle.color=white
 text.bold=true
+indicator.element=arrow
+indicator.size=0
 
 [ToolbarButton]
 frame.element=tbutton
