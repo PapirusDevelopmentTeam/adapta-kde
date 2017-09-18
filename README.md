@@ -20,15 +20,15 @@ In this repository you'll find:
 
 ### Ubuntu and derivatives
 
-You can install adapta-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/adapta-kde):
+You can install adapta-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
 ```
-sudo add-apt-repository ppa:papirus/adapta-kde
+sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
-sudo apt-get install adapta-kde
+sudo apt-get install --install-recommends adapta-kde
 ```
 
-or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/adapta-kde/+packages).
+or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=adapta-kde).
 
 ### Adapta KDE Installer
 
