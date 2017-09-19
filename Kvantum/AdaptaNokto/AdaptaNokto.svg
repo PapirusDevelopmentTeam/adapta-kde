@@ -451,26 +451,25 @@
  <path id="menubar-normal-bottom" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;fill:url(#linearGradient5406);stroke:none;stroke-width:0.55500001" d="m 305,530 5,0 0,-5 -5,0 z"/>
  <use id="menubar-normal-bottomleft" width="100%" height="100%" x="0" y="0" transform="translate(-5,0)" xlink:href="#menubar-normal-bottom"/>
  <use id="menubar-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="translate(5,0)" xlink:href="#menubar-normal-bottom"/>
- <g id="g583" style="fill-rule:evenodd" transform="translate(0,-300)">
-  <g id="g585" style="stroke:none">
-   <g id="g587" style="stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round">
-    <g id="g589" style="fill-opacity:0">
-     <rect id="tab-toggled" width="10" height="10" x="25" y="926"/>
-     <rect id="tab-toggled-top" width="10" height="10" x="25" y="916"/>
-     <rect id="tab-toggled-right" width="10" height="10" x="35" y="926"/>
-     <rect id="tab-toggled-topright" width="10" height="10" x="35" y="916"/>
-     <rect id="tab-toggled-left" width="10" height="10" x="15" y="926"/>
-     <rect id="tab-toggled-topleft" width="10" height="10" x="15" y="916"/>
-    </g>
-    <g id="g597" style="fill:#00bcd4">
-     <rect id="tab-toggled-bottom" width="10" height="10" x="25" y="936"/>
-     <rect id="tab-toggled-bottomright" width="10" height="10" x="35" y="936"/>
-     <rect id="tab-toggled-bottomleft" width="10" height="10" x="15" y="936"/>
-    </g>
-   </g>
-   <path id="slidercursor-normal" style="fill:#4db6ac;stroke-width:0.87599999" d="m 395.553,742.5 c -2.64704,2.20595 -5.58246,7.5 -10.553,7.5 -4.97054,0 -7.45032,-3.52943 -7.44696,-7.5 0.003,-3.97108 2.47642,-7.5 7.44696,-7.5 4.97055,0 7.90598,5.29415 10.553,7.5 z"/>
+ <g id="g587" style="fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round" transform="translate(0,-300)">
+  <g id="g589" style="fill-opacity:0">
+   <rect id="tab-toggled" width="10" height="10" x="25" y="926"/>
+   <rect id="tab-toggled-top" width="10" height="10" x="25" y="916"/>
+   <rect id="tab-toggled-right" width="10" height="10" x="35" y="926"/>
+   <rect id="tab-toggled-topright" width="10" height="10" x="35" y="916"/>
+   <rect id="tab-toggled-left" width="10" height="10" x="15" y="926"/>
+   <rect id="tab-toggled-topleft" width="10" height="10" x="15" y="916"/>
   </g>
-  <path id="slidercursor-disabled" style="fill:#263238;stroke:#3d494f;stroke-width:3" d="m 426.9509,743.7274 c -2.08506,1.76479 -4.39727,6 -8.31257,6.00018 -3.91521,0 -5.86852,-2.82364 -5.86586,-6 0.002,-3.17703 1.95065,-6 5.86586,-6 3.91529,0 6.2275,4.23546 8.31257,6 z"/>
+  <g id="g597" style="fill:#00bcd4">
+   <rect id="tab-toggled-bottom" width="10" height="10" x="25" y="936"/>
+   <rect id="tab-toggled-bottomright" width="10" height="10" x="35" y="936"/>
+   <rect id="tab-toggled-bottomleft" width="10" height="10" x="15" y="936"/>
+  </g>
+ </g>
+ <path id="slidercursor-normal" style="fill:#4db6ac;fill-rule:evenodd;stroke:none;stroke-width:0.87599999" d="m 394.99996,442.5 c -2.64704,2.20595 -5.58246,7.5 -10.553,7.5 -4.97054,0 -7.45032,-3.52943 -7.44696,-7.5 0.003,-3.97108 2.47642,-7.5 7.44696,-7.5 4.97055,0 7.90598,5.29415 10.553,7.5 z"/>
+ <g id="slidercursor-disabled" transform="matrix(1.0270124,0,0,1,-11.382917,0.77148)">
+  <path id="path5120" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3d494f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 418.63867,436.22852 c -2.31812,0 -4.26333,0.88977 -5.52344,2.3125 -1.2601,1.42272 -1.8406,3.29063 -1.84179,5.18554 -0.002,1.89603 0.57899,3.76467 1.83984,5.1875 1.26086,1.42283 3.20719,2.31446 5.52539,2.31446 2.49849,-1.2e-4 4.43069,-1.36087 5.88281,-2.75977 1.08392,-1.04419 1.8109,-1.9051 2.53711,-2.68359 L 428.8,444 l -1.74141,-2.33008 c -0.72618,-0.77842 -1.45319,-1.6394 -2.53711,-2.68359 -1.45211,-1.39891 -3.38428,-2.75781 -5.88281,-2.75781 z"/>
+  <path id="slidercursor-disabled2" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#263238;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 418.59739,439.22852 c 1.42897,0 2.61909,0.75801 3.83354,1.91796 0.84086,0.80312 1.65138,1.7069 2.47428,2.58008 -0.82324,0.87348 -1.63309,1.7786 -2.47428,2.58203 -1.21445,1.15995 -2.40452,1.91986 -3.83354,1.91993 -1.61077,0 -2.60765,-0.52161 -3.30756,-1.30469 -0.69992,-0.78308 -1.09638,-1.91498 -1.0953,-3.19531 8.1e-4,-1.28212 0.39777,-2.41425 1.09727,-3.19727 0.6995,-0.78302 1.69473,-1.30273 3.30559,-1.30273 z"/>
  </g>
  <g id="g604" style="stroke:none;stroke-width:2" transform="translate(0,-300)">
   <rect id="scrollbarslider-normal" style="fill:#556165" width="7.5" height="12.5" x="10" y="1102.5"/>
