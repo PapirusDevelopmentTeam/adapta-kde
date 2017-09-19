@@ -17,8 +17,11 @@ install:
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Adapta
 	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/Adapta.colors
+	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/AdaptaNokto.colors
 	-rm -r  $(DESTDIR)$(PREFIX)/share/konsole/Adapta.colorscheme
+	-rm -r  $(DESTDIR)$(PREFIX)/share/konsole/AdaptaNokto.colorscheme
 	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/Adapta
+	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/AdaptaNokto
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Adapta
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.adapta
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Adapta
