@@ -668,21 +668,6 @@
  <use id="common-focused-bottomright" width="450" height="1230" x="0" y="0" transform="matrix(-1,0,0,-1,601,1963.9998)" xlink:href="#common-normal-topleft"/>
  <use id="common-focused-bottom" width="450" height="1230" x="0" y="0" transform="matrix(0,-1,1,0,-703.99988,1304.9999)" xlink:href="#common-normal-left"/>
  <use id="common-focused-bottomleft" width="450" height="1230" x="0" y="0" transform="matrix(0,-1,1,0,-703.99988,1304.9999)" xlink:href="#common-normal-topleft"/>
- <rect id="toolbar-normal" style="fill:#222d32;stroke:none" width="20" height="20" x="360" y="566"/>
- <rect id="toolbar-normal-left" style="fill:#222d32;stroke:none" width="20" height="5" x="566" y="-360" transform="matrix(0,1,-1,0,0,0)"/>
- <rect id="toolbar-normal-topleft" style="fill:#222d32;stroke:none" width="5" height="5" x="561" y="-360" transform="matrix(0,1,-1,0,0,0)"/>
- <rect id="toolbar-normal-top" style="fill:#222d32;stroke:none" width="20" height="5" x="360" y="561"/>
- <rect id="toolbar-normal-right" style="fill:#222d32;stroke:none" width="20" height="5" x="566" y="-385" transform="matrix(0,1,-1,0,0,0)"/>
- <rect id="toolbar-normal-topright" style="fill:#222d32;stroke:none" width="5" height="5" x="561" y="-385" transform="matrix(0,1,-1,0,0,0)"/>
- <g id="toolbar-normal-bottomleft" style="fill:url(#linearGradient4932);fill-opacity:1" transform="matrix(1,0,0,0.5,-4.1306152e-7,188.99988)">
-  <rect id="rect5005" style="opacity:0.3;fill:url(#linearGradient4934);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="5" height="10" x="355" y="794"/>
- </g>
- <g id="toolbar-normal-bottomright" style="fill:url(#linearGradient4928);fill-opacity:1" transform="matrix(1,0,0,0.5,-4.1306152e-7,188.99988)">
-  <rect id="rect5007" style="opacity:0.3;fill:url(#linearGradient4938);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="5" height="10" x="380" y="794"/>
- </g>
- <g id="toolbar-normal-bottom" style="fill:url(#linearGradient4930);fill-opacity:1" transform="matrix(4,0,0,0.5,-1060,188.99988)">
-  <rect id="rect4931" style="opacity:0.3;fill:url(#linearGradient4936);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="5" height="10" x="355" y="794"/>
- </g>
  <g id="tbutton-normal" transform="translate(0,19.99994)">
   <rect id="rect5103" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="224" y="14"/>
   <circle id="path5105" style="opacity:0.07999998;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="235" cy="25" r="11"/>
