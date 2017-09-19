@@ -26,6 +26,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.adapta
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Adapta
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/adapta
+	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/adapta-nokto
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))

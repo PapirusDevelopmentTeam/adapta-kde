@@ -63,6 +63,7 @@ _uninstall() {
     _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.adapta"
     _rm "$PREFIX/share/wallpapers/Adapta"
     _rm "$PREFIX/share/yakuake/skins/adapta"
+        _rm "$PREFIX/share/yakuake/skins/adapta-nokto"
 }
 
 _install() {
