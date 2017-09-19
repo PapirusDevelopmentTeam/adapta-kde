@@ -404,7 +404,7 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
-text.bold=false
+text.bold=true
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
@@ -416,6 +416,7 @@ interior.element=menubar
 frame.bottom=0
 text.normal.color=#cfd8dc
 frame.expansion=0
+text.bold=true
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -432,7 +433,7 @@ text.margin.top=0
 text.margin.bottom=0
 text.normal.color=#cfd8dc
 text.focus.color=white
-text.bold=false
+text.bold=true
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
