@@ -1,14 +1,14 @@
 [Background]
-Color=34,45,50
+Color=38,50,56
 
 [BackgroundFaint]
-Color=34,45,50
+Color=38,50,56
 
 [BackgroundIntense]
-Color=34,45,50
+Color=38,50,56
 
 [Color0]
-Color=38,50,56
+Color=34,45,50
 
 [Color0Faint]
 Color=39,49,58
