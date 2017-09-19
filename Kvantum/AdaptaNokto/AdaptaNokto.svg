@@ -133,10 +133,10 @@
  <path id="toolbar-handle" style="fill:#7d7d7d;stroke:none" d="m 245,93.2484 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z"/>
  <use id="slider-toggled-bottomright" width="450" height="1230" x="0" y="0" transform="matrix(1,0,0,-1,0,884)" xlink:href="#slider-toggled-topright"/>
  <rect id="dock-focused" style="color:#000000;fill:#263238;stroke:none" width="30" height="30" x="407" y="870"/>
- <g id="radio-checked-normal" style="color:#000000;stroke:none" transform="translate(0,7)">
+ <g id="radio-checked-normal" style="color:#000000;stroke:none" transform="translate(-0.5,7)">
   <g id="g191" style="line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;solid-color:#000000;solid-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto">
    <path id="path1800" style="color-interpolation-filters:linearRGB;fill:#00bcd4" d="m 105.5,200 c -4.40644,0 -8,3.59356 -8,8 5e-6,4.40644 3.59356,8 8,8 4.40643,0 8,-3.59357 8,-8 0,-4.40643 -3.59357,-8 -8,-8 z"/>
-   <path id="use3869" style="color-interpolation-filters:linearRGB;fill:#263238" d="m 105.5,202 c 3.32567,0 6,2.67433 6,6 0,3.32567 -2.67433,6 -6,6 -3.32568,0 -6,-2.67432 -6,-6 3e-6,-3.32568 2.67432,-6 6,-6 z"/>
+   <path id="use3869" style="color-interpolation-filters:linearRGB;fill:#28343a;fill-opacity:1" d="m 105.5,202 c 3.32567,0 6,2.67433 6,6 0,3.32567 -2.67433,6 -6,6 -3.32568,0 -6,-2.67432 -6,-6 3e-6,-3.32568 2.67432,-6 6,-6 z"/>
   </g>
   <circle id="path6309-3" style="fill:#00bcd4;stroke-width:1.52900004" cx="105.5" cy="208" r="3"/>
  </g>
