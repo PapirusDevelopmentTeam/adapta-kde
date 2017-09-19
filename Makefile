@@ -32,9 +32,6 @@ _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
-push:
-	git push origin
-
 release: _get_version push
 	git tag -f $(VERSION)
 	git push origin --tags
@@ -44,4 +41,4 @@ undo_release: _get_version
 	-git push --delete origin $(VERSION)
 
 
-.PHONY: all install uninstall _get_version push release undo_release
+.PHONY: all install uninstall _get_version release undo_release
