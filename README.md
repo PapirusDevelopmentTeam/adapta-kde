@@ -8,13 +8,13 @@ Adapta KDE - This is a port of the popular [GTK theme Adapta](https://github.com
 In this repository you'll find:
 
 - Aurorae Theme
-- Konsole Color Scheme
-- Kvantum Theme
-- Plasma Color Scheme
+- Konsole Color Schemes
+- Kvantum Themes
+- Plasma Color Schemes
 - Plasma Desktop Theme
 - Plasma Look-and-Feel Settings
 - Wallpaper
-- Yakuake Skin
+- Yakuake Skins
 
 ## Installation
 
