@@ -54,6 +54,7 @@ Packages in this section are not part of the official repositories. If you have 
 |:-----------|:---------------|:------------|
 | Arch Linux | Jan Neumann    | [adapta-kde-git](https://aur.archlinux.org/packages/adapta-kde-git/) <sup>AUR</sup> |
 | Arch Linux | now-im         | [adapta-kde](https://aur.archlinux.org/packages/adapta-kde/) <sup>AUR</sup> |
+| Arch Linux | Piotr Górski   | [adapta-kde-git](https://github.com/sirlucjan/archlinux-plasma-papirus/tree/master/adapta-kde-git/) <sup>GIT</sup> |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
