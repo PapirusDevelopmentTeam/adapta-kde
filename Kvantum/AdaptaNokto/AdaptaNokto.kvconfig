@@ -173,7 +173,7 @@ frame.bottom=2
 frame.left=2
 frame.right=2
 indicator.element=spin
-indicator.size=10
+indicator.size=8
 text.normal.color=#cfd8dc
 text.margin.top=2
 text.margin.bottom=2
@@ -278,7 +278,7 @@ frame.right=2
 
 [TreeExpander]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=8
 indicator.element=tree
 
 [HeaderSection]
