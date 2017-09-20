@@ -282,7 +282,7 @@ frame.right=2
 
 [TreeExpander]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=8
 indicator.element=tree
 
 [HeaderSection]
@@ -295,7 +295,7 @@ frame.left=1
 frame.right=1
 text.normal.color=#000000aa
 text.focus.color=#007e8c
-text.press.color=black
+text.press.color=#575d61
 text.toggle.color=white
 frame.expansion=0
 
@@ -457,10 +457,10 @@ text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
 interior.element=titlebar
-indicator.size=12
+indicator.size=16
 indicator.element=mdi
 text.normal.color=#cfd8dc
-text.focus.color=black
+text.focus.color=#575d61
 text.bold=true
 frame.expansion=0
 
