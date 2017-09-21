@@ -481,7 +481,7 @@
  <rect id="tab-toggled-bottomleft" style="fill:#00bcd4;fill-rule:evenodd;stroke:none;stroke-width:1.64900005;stroke-linecap:round;stroke-linejoin:round" width="10" height="10" x="15" y="728"/>
  <rect id="scrollbarslider-normal" style="fill:#c2c5c7;stroke:none;stroke-width:2" width="7.5" height="12.5" x="10" y="894.5"/>
  <rect id="scrollbarslider-focused" style="fill:#a4a9ac;stroke:none;stroke-width:2" width="7.5" height="12.5" x="17.5" y="894.5"/>
- <rect id="scrollbarslider-pressed" style="fill:#5c656a;stroke:none;stroke-width:2" width="7.5" height="12.5" x="25" y="894.5"/>
+ <rect id="scrollbarslider-pressed" style="fill:#263238;stroke:none;stroke-width:2" width="7.5" height="12.5" x="25" y="894.5"/>
  <g id="button-normal-bottomleft" style="stroke:none" transform="translate(0,19.99994)">
   <path id="path1797" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.46200001" d="M 7,55 4,55 C 2.5,55 2,54.5 2,53 l 0,-1 5,0 z"/>
   <g id="g682" style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke-width:0.86400002">
