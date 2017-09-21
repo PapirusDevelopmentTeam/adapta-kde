@@ -80,10 +80,10 @@ Color=78,78,88
 Color=255,255,255
 
 [Foreground]
-Color=90,99,104
+Color=65,76,82
 
 [ForegroundFaint]
-Color=90,99,104
+Color=65,76,82
 
 [ForegroundIntense]
 Color=77,80,95
