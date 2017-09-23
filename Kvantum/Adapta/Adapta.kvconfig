@@ -18,8 +18,8 @@ scroll_width=9
 scroll_arrows=false
 scroll_min_extent=60
 slider_width=2
-slider_handle_width=18
-slider_handle_length=15
+slider_handle_width=22
+slider_handle_length=22
 center_toolbar_handle=true
 check_size=14
 textless_progressbar=false
@@ -81,7 +81,7 @@ tooltip.text.color=#eefcff
 highlight.text.color=#ffffff
 link.color=#0057AE
 link.visited.color=#452886
-progress.indicator.text.color=white
+progress.indicator.text.color=#00000000
 
 [Hacks]
 transparent_ktitle_label=true
@@ -338,11 +338,11 @@ inherits=PanelButtonCommand
 frame.element=progress
 interior.element=progress
 text.margin=0
-text.normal.color=#414c52
-text.focus.color=#414c52
-text.press.color=#414c52
-text.toggle.color=#414c52
-text.bold=true
+text.normal.color=#00000000
+text.focus.color=#00000000
+text.press.color=#00000000
+text.toggle.color=#00000000
+text.bold=false
 frame.expansion=8
 
 [ProgressbarContents]
