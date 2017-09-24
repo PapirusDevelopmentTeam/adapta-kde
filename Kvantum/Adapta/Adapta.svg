@@ -580,9 +580,9 @@
  <use id="button-toggled-right" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,326.00001,0)" xlink:href="#button-toggled-left"/>
  <use id="button-toggled-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,326.00001,0)" xlink:href="#button-toggled-bottomleft"/>
  <use id="button-toggled-topright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,1,326.00001,0)" xlink:href="#button-toggled-topleft"/>
- <g id="tbutton-toggled-bottom" style="fill-rule:evenodd;stroke:none" transform="translate(0,19.99994)">
+ <g id="tbutton-toggled-bottom" style="fill-rule:evenodd;stroke:none" transform="translate(0,20.5)">
   <path id="tbutton-toggled-bottom0" style="fill-opacity:0;stroke-width:0.171" d="m 311.9999,49.5 -3.99978,0 0,4 3.9998,0 z"/>
-  <path id="path1591" style="fill:#00c3dc;stroke-width:0.148" d="m 311.9999,49.5 -3.99978,0 0,3 3.9998,0 z"/>
+  <path id="path1591" style="fill:#00c3dc;stroke-width:0.148" d="m 311.9999,50.5 -3.99978,0 0,2 3.9998,0 z"/>
  </g>
  <use id="tbutton-toggled-bottomright" width="100%" height="100%" x="0" y="0" transform="translate(3.9999,0)" xlink:href="#tbutton-toggled-bottom"/>
  <use id="tbutton-toggled-bottomleft" width="100%" height="100%" x="0" y="0" transform="translate(-4,0)" xlink:href="#tbutton-toggled-bottom"/>
