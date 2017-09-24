@@ -42,4 +42,4 @@ undo_release: _get_version
 	-git push --delete origin $(VERSION)
 
 
-.PHONY: all install uninstall _get_version release undo_release
+.PHONY: all install uninstall _get_version dist release undo_release
