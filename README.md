@@ -62,13 +62,17 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Adapta** theme.
+  Run `kvantummanager` to choose and apply **Adapta** or **Adapta Nokto** theme.
 
 - Install [Papirus-Adapta icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
 - On systemsettings set **Noto Sans Bold** font for title, menu and toolbar
 
-- For better looking use toolbar icons without text
+- For better looking use toolbar icons without text with 22px size (for Papirus themes)
+
+## Known issues
+
+- Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
 
 ## Donate
 
