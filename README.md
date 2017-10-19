@@ -74,6 +74,8 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
 
+- On some propietary video drivers Aurorae have wrong rendering by default with Adapta theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
+
 ## Donate
 
 If you like my project, you can donate at:
