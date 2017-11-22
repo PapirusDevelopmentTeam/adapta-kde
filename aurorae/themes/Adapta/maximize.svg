@@ -4,8 +4,8 @@
    <rect id="rect4164" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
   </g>
   <g id="g4135" transform="translate(-1,-1)">
-   <circle id="path4202" style="opacity:0.2;fill:#cfd8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" cx="12" cy="12" r="8"/>
-   <path id="rect4139" style="opacity:1;fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="M 53 7 L 53 9 L 61 9 L 61 7 L 53 7 z M 53 10 L 53 15 L 61 15 L 61 10 L 53 10 z M 55 12 L 59 12 L 59 13 L 55 13 L 55 12 z" transform="translate(-45,1)"/>
+   <circle id="path4202" style="opacity:0.2;fill:#eeefef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" cx="12" cy="12" r="8"/>
+   <path id="rect4139" style="opacity:1;fill:#eeefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="M 53 7 L 53 9 L 61 9 L 61 7 L 53 7 z M 53 10 L 53 15 L 61 15 L 61 10 L 53 10 z M 55 12 L 59 12 L 59 13 L 55 13 L 55 12 z" transform="translate(-45,1)"/>
   </g>
  </g>
  <g id="hover-center" transform="translate(-23,0)">
@@ -13,20 +13,20 @@
    <rect id="rect4208" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
   </g>
   <g id="g4210" transform="translate(45,-1)">
-   <circle id="circle4212" style="opacity:0.1;fill:#cfd8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" cx="12" cy="12" r="8"/>
-   <path id="rect4214" style="opacity:1;fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="M 30 7 L 30 9 L 38 9 L 38 7 L 30 7 z M 30 10 L 30 15 L 38 15 L 38 10 L 30 10 z M 32 12 L 36 12 L 36 13 L 32 13 L 32 12 z" transform="translate(-22,1)"/>
+   <circle id="circle4212" style="opacity:0.1;fill:#eeefef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" cx="12" cy="12" r="8"/>
+   <path id="rect4214" style="opacity:1;fill:#eeefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="M 30 7 L 30 9 L 38 9 L 38 7 L 30 7 z M 30 10 L 30 15 L 38 15 L 38 10 L 30 10 z M 32 12 L 36 12 L 36 13 L 32 13 L 32 12 z" transform="translate(-22,1)"/>
   </g>
  </g>
  <g id="active-center">
   <rect id="rect4266" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
-  <path id="path4268" style="opacity:1;fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7.0000001 0,2 8,0 0,-2 -8,0 z M 7,10 l 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
+  <path id="path4268" style="opacity:1;fill:#eeefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7.0000001 0,2 8,0 0,-2 -8,0 z M 7,10 l 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
  </g>
  <g id="inactive-center" transform="translate(69,0)">
   <rect id="rect4180" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
-  <path id="rect4139-3" style="opacity:0.3;fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7 0,2 8,0 0,-2 -8,0 z m 0,3 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
+  <path id="rect4139-3" style="opacity:0.3;fill:#eeefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7 0,2 8,0 0,-2 -8,0 z m 0,3 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
  </g>
  <g id="deactivated-center" transform="translate(92,0)">
   <rect id="rect4278" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
-  <path id="path4280" style="opacity:0.3;fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7 0,2 8,0 0,-2 -8,0 z m 0,3 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
+  <path id="path4280" style="opacity:0.3;fill:#eeefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.75" d="m 7,7 0,2 8,0 0,-2 -8,0 z m 0,3 0,5 8,0 0,-5 -8,0 z m 2,2 4,0 0,1 -4,0 0,-1 z"/>
  </g>
 </svg>

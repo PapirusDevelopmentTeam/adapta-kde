@@ -8,9 +8,9 @@ Icon=/icon.png
 [Tabs]
 x=19
 y=0
-red=207
-green=216
-blue=220
+red=238
+green=239
+blue=239
 selected_background=/tabs/active_tab.png
 unselected_background=/tabs/inactive_tab.png
 
