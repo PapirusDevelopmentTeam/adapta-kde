@@ -125,6 +125,8 @@ text.margin.top=2
 text.margin.bottom=4
 text.margin.left=2
 text.margin.right=2
+
+
 frame.expansion=14
 
 [PanelButtonTool]
