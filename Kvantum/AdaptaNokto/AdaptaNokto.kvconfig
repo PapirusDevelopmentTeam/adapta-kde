@@ -125,8 +125,8 @@ text.margin.top=2
 text.margin.bottom=4
 text.margin.left=2
 text.margin.right=2
-min_width=+0.3font
-min_height=+0.3font
+
+
 frame.expansion=14
 
 [PanelButtonTool]
@@ -186,8 +186,6 @@ frame=false
 interior.element=radio
 text.normal.color=#cfd8dc
 text.focus.color=white
-min_width=+0.3font
-min_height=+0.3font
 
 [CheckBox]
 inherits=PanelButtonCommand
@@ -195,8 +193,6 @@ frame=false
 interior.element=checkbox
 text.normal.color=#cfd8dc
 text.focus.color=white
-min_width=+0.3font
-min_height=+0.3font
 
 [Focus]
 inherits=PanelButtonCommand
@@ -362,8 +358,6 @@ text.normal.color=#cfd8dc
 text.focus.color=white
 text.press.color=white
 text.toggle.color=white
-min_width=+0.3font
-min_height=+0.3font
 frame.expansion=0
 
 [Splitter]
@@ -405,8 +399,6 @@ frame.bottom=3
 frame.left=3
 frame.right=3
 text.bold=true
-min_width=+0.3font
-min_height=+0.3font
 frame.expansion=0
 
 [MenuBar]
@@ -434,8 +426,6 @@ text.margin.bottom=0
 text.normal.color=#cfd8dc
 text.focus.color=white
 text.bold=true
-min_width=+0.3font
-min_height=+0.3font
 frame.expansion=0
 
 [TitleBar]
