@@ -98,10 +98,6 @@
   </g>
   <path id="path5651" d="m 352.00001,-26.000003 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 l 11.00001,12.000014 11.00002,-12.000014 c -3.13963,-2.300229 -6.81073,-3.999986 -11.00002,-3.999986 z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cfd8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
  </g>
- <g id="network-wireless-disconnected">
-  <rect id="rect4204" width="22" height="22" x="369" y="-29" style="opacity:0;fill:#ed1515;fill-opacity:0;stroke:none"/>
-  <path id="path5673" d="m 380.00001,-26.000003 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 l 11.00001,12.000014 11.00002,-12.000014 c -3.13963,-2.300229 -6.81073,-3.999986 -11.00002,-3.999986 z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.99999999;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
- </g>
  <g id="network-wireless-0" transform="translate(0,27.999998)">
   <rect id="rect5431" width="22" height="22" x="172" y="-29" style="opacity:0;fill:#ed1515;fill-opacity:0;stroke:none"/>
   <g id="g5433" transform="matrix(1.3913043,0,0,1.3913043,-307.95709,604.26552)" style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1">
@@ -1170,5 +1166,10 @@
  <g id="network-flightmode-off" transform="translate(-61,0)">
   <rect id="rect5006" width="22" height="22" x="29" y="119" style="opacity:0;fill:#ff1216;fill-opacity:0.49259261;stroke:none"/>
   <path id="path5008" d="m 44.292308,122.38476 -2.215385,2.21538 c 0,0 -7.02018,0 -8.861538,0 -1.107693,0 -2.215385,1.10769 -2.215385,1.10769 l 7.753846,2.21539 -4.430769,5.53846 c 0,0 0.119396,0 -1.107692,0 -0.92068,0 -2.215385,1.10769 -2.215385,1.10769 2.215385,0 4.430769,2.21539 4.430769,4.43077 0,0 1.107693,-1.2947 1.107693,-2.21538 0,-1.22754 0,-1.10769 0,-1.10769 l 5.538461,-4.43077 2.215385,7.75384 c 0,0 1.107692,-1.10769 1.107692,-2.21538 0,-1.84136 0,-8.86154 0,-8.86154 l 2.215385,-2.21539 c 2.215384,-2.21538 1.107692,-4.43076 1.107692,-4.43076 0,0 -2.215385,-1.1077 -4.430769,1.10769 z" style="color:#7b7c7e;opacity:1;fill:#00bcd4;fill-opacity:1"/>
+ </g>
+ <g id="network-wireless-disconnected">
+  <rect id="rect4204" width="22" height="22" x="369" y="-29" style="opacity:0;fill:#ed1515;fill-opacity:0;stroke:none"/>
+  <path id="path5673" d="m 380.00001,-26.000003 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 l 11.00001,12.000014 11.00002,-12.000014 c -3.13963,-2.300229 -6.81073,-3.999986 -11.00002,-3.999986 z" style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#cfd8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
+  <path id="path1667" d="m 385.70736,-14.6571 4.94975,4.94976 L 389.94976,-9 385.00001,-13.94975 Z M 385,-9.70736 l 4.94975,-4.94975 0.70735,0.70735 -4.94976,4.94975 z" style="fill:#00bcd4;fill-opacity:1;stroke:none"/>
  </g>
 </svg>
