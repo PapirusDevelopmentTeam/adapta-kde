@@ -37,6 +37,11 @@ You can install adapta-kde from the official arch repo:
 ```
 sudo pacman -S adapta-kde kvantum-theme-adapta
 ```
+You can install git version from the Arch User Repository:
+
+```
+yaourt -S adapta-kde-git
+```
 
 ### Adapta KDE Installer
 
