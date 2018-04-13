@@ -53,7 +53,7 @@ Packages in this section are not part of the official repositories. If you have 
 | **Distro** | **Maintainer** | **Package** |
 |:-----------|:---------------|:------------|
 | Arch Linux | Bruno Pagani | `sudo pacman -S adapta-kde kvantum-theme-adapta` <sup>[[link](https://www.archlinux.org/packages/community/any/adapta-kde/)]</sup> |
-| Arch Linux | Jan Neumann | `yaourt -S adapta-kde-git` <sup>AUR [[link](https://aur.archlinux.org/packages/adapta-kde-git/)]</sup> |
+| Arch Linux | Jan Neumann | [adapta-kde-git](https://aur.archlinux.org/packages/adapta-kde-git) <sup>AUR</sup> |
 | openSUSE | Konstantin Voinov | [adapta-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=adapta-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/adapta-kde)]</sub> |
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
