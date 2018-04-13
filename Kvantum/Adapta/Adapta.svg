@@ -355,7 +355,7 @@
  <use id="focus-bottom" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,409,218.99988)" xlink:href="#focus-top"/>
  <use id="focus-left" width="100%" height="100%" x="0" y="0" transform="matrix(0,-1,1,0,95.00006,313.99994)" xlink:href="#focus-top"/>
  <path id="header-normal" d="m 78.5,110.49994 0,-6 -6,0 0,6 z" style="fill:#fafbfc;fill-rule:evenodd;stroke:none"/>
- <path id="header-pressed" d="m 146,104.49994 -6,0 0,6 6,0 z" style="fill:#e9ebed;fill-opacity:0.94100001;fill-rule:evenodd;stroke:none"/>
+ <path id="header-pressed" d="m 146,105 h -6 v 6 h 6 z" style="fill:#e9ebed;fill-opacity:0.94100001;fill-rule:evenodd;stroke:none"/>
  <rect id="expand-combo-normal" width="10" height="10" x="10" y="20" style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0,-1,0.66666667,0,-533.83334,876.0001)" style="stroke:none">
   <path id="path1767" d="m 174,921.5 -4,0 1.3e-4,-6 3.99987,0 z" style="fill-opacity:0;fill-rule:evenodd"/>
@@ -588,7 +588,7 @@
  <use id="tabframe-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="matrix(-1,0,0,-1,603.0002,1382.9998)" xlink:href="#tabframe-normal-topleft"/>
  <use id="tabBarFrame-normal-bottomright" width="100%" height="100%" x="0" y="0" transform="translate(4.0000036,0)" xlink:href="#tabBarFrame-normal-bottom"/>
  <use id="tabBarFrame-normal-bottomleft" width="100%" height="100%" x="0" y="0" transform="translate(-4,0)" xlink:href="#tabBarFrame-normal-bottom"/>
- <path id="header-toggled" d="m 124,104.49994 -5.99996,0 0,6 6,0 z" style="fill:#00bcd4;fill-rule:evenodd;stroke:none"/>
+ <path id="header-toggled" d="m 124,105 h -5.99996 v 6 h 6 z" style="fill:#00bcd4;fill-rule:evenodd;stroke:none"/>
  <rect id="rect1547" width="27.5" height="15" x="62.5" y="130" style="fill-opacity:0.66699997;stroke:none;stroke-width:2"/>
  <g id="common-focused-left" transform="translate(-10,-203.00012)" style="stroke:none">
   <rect id="rect4921" width="2" height="30" x="271" y="1170" style="fill:#d2d2d2"/>
@@ -1203,4 +1203,5 @@
   </g>
   <rect id="rect6210" width="20" height="20" x="278" y="532.36" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"/>
  </g>
+ <path id="header-focused" d="m 104,105 h -6 v 6 h 6 z" style="opacity:1;fill:#e9ebed;fill-opacity:0.94117647;fill-rule:evenodd;stroke:none"/>
 </svg>
