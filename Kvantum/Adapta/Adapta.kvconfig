@@ -135,7 +135,7 @@ text.normal.color=#414c52
 text.focus.color=#414c52
 text.press.color=#414c52
 text.toggle.color=white
-text.bold=true
+text.bold=false
 indicator.element=arrow
 indicator.size=0
 
@@ -147,7 +147,7 @@ text.normal.color=#cfd8dc
 text.focus.color=white
 text.press.color=white
 text.toggle.color=white
-text.bold=true
+text.bold=false
 
 [Dock]
 inherits=PanelButtonCommand
@@ -165,7 +165,7 @@ frame=false
 interior=false
 text.normal.color=#414c52
 text.focus.color=#414c52
-text.bold=true
+text.bold=false
 
 [IndicatorSpinBox]
 inherits=PanelButtonCommand
@@ -269,7 +269,7 @@ text.focus.color=#414c52
 text.press.color=#414c52
 text.toggle.color=#414c52
 frame.expansion=0
-text.bold=true
+text.bold=false
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -425,7 +425,7 @@ text.focus.color=#cfd8dc
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 frame.expansion=0
-text.bold=true
+text.bold=false
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -444,7 +444,7 @@ text.normal.color=#cfd8dc
 text.focus.color=#cfd8dc
 text.press.color=#ffffff
 text.toggle.color=#ffffff
-text.bold=true
+text.bold=false
 min_width=+0.3font
 min_height=+0.3font
 frame.expansion=0
@@ -461,7 +461,7 @@ indicator.size=16
 indicator.element=mdi
 text.normal.color=#cfd8dc
 text.focus.color=#414c52
-text.bold=true
+text.bold=false
 frame.expansion=0
 
 [ComboBox]
@@ -493,7 +493,7 @@ interior.element=menu
 text.normal.color=#414c52
 text.shadow=false
 frame.expansion=0
-text.bold=true
+text.bold=false
 
 [GroupBox]
 inherits=GenericFrame
@@ -502,7 +502,7 @@ text.shadow=0
 text.margin=0
 text.normal.color=#00000096
 text.focus.color=#00bcd4
-text.bold=true
+text.bold=false
 frame.expansion=0
 
 [TabBarFrame]
@@ -536,4 +536,4 @@ interior=false
 [Window]
 interior=true
 interior.element=window
-text.bold=true
+text.bold=false
