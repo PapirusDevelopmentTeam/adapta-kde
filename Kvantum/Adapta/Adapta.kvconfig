@@ -237,6 +237,9 @@ text.margin.left=2
 text.margin.right=2
 frame.expansion=0
 
+[ToolbarLineEdit]
+frame.element=lineedit
+
 [DropDownButton]
 inherits=PanelButtonCommand
 indicator.element=arrow-down
@@ -481,6 +484,14 @@ text.focus.color=#414c52
 text.press.color=#005a64
 text.toggle.color=#414c52
 frame.expansion=0
+
+[ToolbarComboBox]
+frame.element=combo
+indicator.element=flat-arrow-down
+text.normal.color=#cfd8dc
+text.focus.color=white
+text.press.color=white
+text.toggle.color=white
 
 [Menu]
 inherits=PanelButtonCommand
