@@ -3,14 +3,14 @@ Section: universe/kde
 Priority: optional
 Maintainer: Sergei Eremenko <finalitik@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.4
 Homepage: https://github.com/PapirusDevelopmentTeam/adapta-kde
 
 Package: adapta-kde
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}, plasma-workspace (>= 4:5.5.0)
-Recommends: kvantum, papirus-icon-theme
+Recommends: qt5-style-kvantum, papirus-icon-theme
 Suggests: konsole, yakuake (>= 3.0)
 Description: Adapta KDE
  This is a Adapta KDE port of the popular GTK theme Adapta for Plasma 5 desktop.
