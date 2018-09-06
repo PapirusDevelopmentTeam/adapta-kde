@@ -70,11 +70,9 @@ Packages in this section are not part of the official repositories. If you have 
 
 - On systemsettings set **Noto Sans** font for title, menu and toolbar
 
-- For better looking use toolbar icons without text with 22px size (for Papirus themes)
+- For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
 ## Known issues
-
-- Old version qBittorrent (~3.3.1) not used 22px icon size on toolbar (icons will be blurred, update to fresh version for solve this)
 
 - On some propietary video drivers Aurorae have wrong rendering by default with Adapta theme. See more info [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/21)
 
