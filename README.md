@@ -72,7 +72,7 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
-## Hacks for small scrren resolution
+## Hacks for small screen resolution
 
 - Install widgets [Active Window Control](https://github.com/kotelnik/plasma-applet-active-window-control) & [Application Menu](https://cgit.kde.org/plasma-workspace.git/tree/applets/appmenu) and move to panel
 - Disable window buttons & titlebar on decoration:
