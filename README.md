@@ -3,11 +3,7 @@
   <sup><sub>Screenshot: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Adapta Nokto | Aurorae decoration: Adapta | Plasma Theme: Adapta | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | File Manager: Dolphin | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a> | Calendar: <a href="https://github.com/Zren/plasma-applet-eventcalendar">Event Calendar</a></sub></sup>
 </p>
 
-Adapta KDE - This is a port of the popular [GTK theme Adapta 3.94](https://github.com/adapta-project/adapta-gtk-theme) for Plasma 5 desktop with a few additions and extras.
-
-# NOTE
-
-New version Adapta 3.95 and higher not supported with Adapta KDE. More info see [here](https://github.com/PapirusDevelopmentTeam/adapta-kde/issues/79) and [here](https://github.com/adapta-project/adapta-gtk-theme/issues/735)
+Adapta KDE - This is a port of the popular [GTK theme Adapta](https://github.com/adapta-project/adapta-gtk-theme) for Plasma 5 desktop with a few additions and extras.
 
 In this repository you'll find:
 
