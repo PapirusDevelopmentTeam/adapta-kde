@@ -1,3 +1,7 @@
+# 16 Oct 2018
+
+Repository freezes with stop upstream GTK development. More info [here](https://github.com/adapta-project/adapta-gtk-theme/commit/4e74e0f569ed527b715ca3840f5d7701baebaf3c)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/adapta-kde/master/preview.png" alt="Preview Adapta KDE"/>
   <sup><sub>Screenshot: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Adapta Nokto | Aurorae decoration: Adapta | Plasma Theme: Adapta | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | File Manager: Dolphin | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a> | Calendar: <a href="https://github.com/Zren/plasma-applet-eventcalendar">Event Calendar</a></sub></sup>
