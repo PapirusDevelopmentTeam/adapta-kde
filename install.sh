@@ -29,8 +29,9 @@ cat <<- EOF
 
 EOF
 
-PREFIX=${PREFIX:=/usr}
-uninstall=${uninstall:-false}
+: "${PREFIX:=/usr}"
+: "${TAG:=master}"
+: "${uninstall:=false}"
 
 _msg() {
     echo "=>" "$@" >&2
@@ -45,7 +46,7 @@ _rm() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz"
+        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
@@ -69,13 +70,13 @@ _uninstall() {
 _install() {
     _msg "Installing ..."
     sudo cp -R \
-        "$temp_dir/$gh_repo-master/aurorae" \
-        "$temp_dir/$gh_repo-master/color-schemes" \
-        "$temp_dir/$gh_repo-master/konsole" \
-        "$temp_dir/$gh_repo-master/Kvantum" \
-        "$temp_dir/$gh_repo-master/plasma" \
-        "$temp_dir/$gh_repo-master/wallpapers" \
-        "$temp_dir/$gh_repo-master/yakuake" \
+        "$temp_dir/$gh_repo-$TAG/aurorae" \
+        "$temp_dir/$gh_repo-$TAG/color-schemes" \
+        "$temp_dir/$gh_repo-$TAG/konsole" \
+        "$temp_dir/$gh_repo-$TAG/Kvantum" \
+        "$temp_dir/$gh_repo-$TAG/plasma" \
+        "$temp_dir/$gh_repo-$TAG/wallpapers" \
+        "$temp_dir/$gh_repo-$TAG/yakuake" \
         "$PREFIX/share"
 }
 
